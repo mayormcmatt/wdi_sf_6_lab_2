@@ -1,0 +1,2 @@
+{"~p1\n"=>"You want to make scrambled eggs this morning.\n\nDo you...\n\n", "~p1:c1:p2\n"=>"Use Gordon Ramsey's recipe?\n", "~p1:c2:p3\n"=>"Whip up your own thing?\n", "~p1:c3:p4\n"=>"Call your friend for a recipe?\n\n"}
+{"~p2\n"=>"Success! The eggs are super fluffy and delicious. You are full and ready\nfor the day.\n\n"}
